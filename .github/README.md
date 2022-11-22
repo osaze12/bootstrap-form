@@ -164,4 +164,4 @@ ISC License.
 
 **osazeagbi@gmail.com**
 
-**https://www.linkedin.com/in/osaze-agbi-b68328176/**
+**[linkedIn](https://www.linkedin.com/in/osaze-agbi-b68328176/)**
