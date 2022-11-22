@@ -12,7 +12,11 @@ Your project needs to use React 16.3 or later.
 
 ### Installation
 
-Add Bootstrapped Form to your project by executing **npm install @osaze12/bootstrapped-form** or **yarn add @osaze12/bootstrapped-form**.
+Add Bootstrapped Form to your project by executing 
+
+**npm install @osaze12/bootstrapped-form** or 
+
+**yarn add @osaze12/bootstrapped-form**.
 
 ### Usage
 
