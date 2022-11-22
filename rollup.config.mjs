@@ -19,7 +19,6 @@ export default {
     postcss({
       extensions: [".css"],
       extract: true,
-      modules: true,
     }),
 
     uglify(),

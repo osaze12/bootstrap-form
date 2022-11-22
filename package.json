@@ -1,6 +1,6 @@
 {
   "name": "@osaze12/bootstrapped-form",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "Get a complex form, with validation, with just 5 lines of code.",
   "homepage": "https://github.com/osaze12/bootstrap-form#readme",
   "url": "https://github.com/osaze12/bootstrap-form/issues",
@@ -16,6 +16,10 @@
   "license": "ISC",
   "author": "Osaze Agbi osazeagbi@gmail.com",
   "main": "dist/index.js",
+  "files": [
+    "dist/*",
+    "README.md"
+  ],
   "scripts": {
     "buildLib": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
