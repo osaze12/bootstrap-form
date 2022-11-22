@@ -2,7 +2,7 @@
 
 ### Create a full form with validations, all with just 5 lines of code
 
-<img src="./assets/loopgif.gif" width="400">
+<img src="../assets/loopgif.gif" width="400">
 
 # Getting started
 
@@ -12,7 +12,11 @@ Your project needs to use React 16.3 or later.
 
 ### Installation
 
-Add Bootstrapped Form to your project by executing **npm install @osaze12/bootstrapped-form** or **yarn add @osaze12/bootstrapped-form**.
+Add Bootstrapped Form to your project by executing 
+
+**npm install @osaze12/bootstrapped-form** or 
+
+**yarn add @osaze12/bootstrapped-form**.
 
 ### Usage
 
@@ -43,7 +47,7 @@ function MyApp() {
 
 Result gives you:
 
-<img src="./assets/Screenshot%202022-11-21%20at%2000.21.52.png" width="400"/>
+<img src="../assets/Screenshot%202022-11-21%20at%2000.21.52.png" width="400"/>
 
 Adding a select option & a checkbox using these code:
 
@@ -72,7 +76,7 @@ function MyApp() {
 
 Result gives you
 
-<img src="./assets/Screenshot%202022-11-21%20at%2000.33.59.png" width="400"/>
+<img src="../assets/Screenshot%202022-11-21%20at%2000.33.59.png" width="400"/>
 
 And then to get the form data after successful validation, data will be passed to the payload prop, with 3 arguments, example below:
 
@@ -156,7 +160,7 @@ ISC License.
 
 # Author
 
-<img src="./assets/my%20image.jpeg" width="200" style="border-radius:50%"/>
+<img src="../assets/my%20image.jpeg" width="200" style="border-radius:50%"/>
 
 **Agbi Osaze**
 
