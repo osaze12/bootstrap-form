@@ -1,0 +1,20 @@
+export declare const buttonWordRegex: RegExp;
+export declare const validInputTypwWordRegex: RegExp;
+export declare const selectWordRegex: RegExp;
+export declare const enterWordRegex: RegExp;
+export declare const requiredWordRegex: RegExp;
+export declare const hasVisibilityRegex: RegExp;
+export declare const arrayRegex: RegExp;
+export declare const validEmailCheck: RegExp;
+export declare const strongPasswordCheck: RegExp;
+export declare const getProperWord: (arrayOfChar: string) => string;
+export declare const removeUnnecessaryData: (data: any) => any;
+export declare const getSelectOptions: (data: String) => any;
+export declare const getPropValues: (data: String, index: number, getFieldsKeys: any) => {
+    type: string;
+    getFormLabel: any;
+    className: string;
+    required: boolean;
+    placeholder: string | undefined;
+};
+export declare const passedValidation: (fields: object, form: any, setErrors: any) => boolean;
